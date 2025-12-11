@@ -7,6 +7,7 @@ const Home = () => {
       <div>adding the second Div to Home component.</div>
       <p>P tag</p>
       <div>Hello how are  u ??</div>
+      <div>I am fine & how about about you ??</div>
     </>
   )
 }
