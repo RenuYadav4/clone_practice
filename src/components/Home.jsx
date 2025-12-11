@@ -5,6 +5,9 @@ const Home = () => {
     <>
         <div>This is the home page <span> from siwan</span> <br /> </div>
         <div>adding the second Div to Home component.</div>
+        <div>
+          Hello how are  u ??
+        </div>
     </>
   )
 }
